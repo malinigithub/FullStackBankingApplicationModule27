@@ -16,9 +16,10 @@ This is the banking application built on full stack. It allows users to perform 
 
 # Technology used:
 - Javascript
-- React
-- Express
-- mongodb
+- React: a client-side JavaScript framework
+- Express: A Node.js web server framework
+- MongoDB: A document database
+- Node.js: A JavaScript web server
 - docker
 - HTML/ CSS/ BootStrap
 
