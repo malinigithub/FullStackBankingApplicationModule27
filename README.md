@@ -2,7 +2,7 @@
 FullStackBankingApplication
 
 # Description/Motivation: 
-The reasons why this project exists, including the answers to pertinent questions such as whom does it help, why did you build it, and what business or personal problem does it solve.
+This is the full stack banking application. It allows users to perform basic banking functionlaties like login to a account, deposit money and withdraw money. Note that this application is still a work in progress and hence certain modules like authentication are not in place yet. 
 
 # Installation Guidelines: 
 Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
